@@ -1,1 +1,3 @@
 # US_HOME_PRICE-_PREDICTION
+The goal of this statistical analysis is to help us understand the relationship between house features and how these variables are used to predict house price, to forecast house prices for next 10 years .
+We are going to work on a dataset which consists information about the location of the house , price and other aspects such as square feet etc. When we work on these sort of data , we need to see which column is important for us and which is not. Our main aim today is to make a model which can give us a good prediction on the price of the house based on other variables.
